@@ -12,22 +12,18 @@
   <img align="left" alt="instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 
-
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jdanrh.jdanrh)
 
-<a href="https://samujjwaal.tech/"><img src="/asset/person.svg" align="right" height="200" /></a>
-<p>
+  <p align="right">
+  <img src="assets/person.svg" align="right" height="150" />
+</p>
+<p align="left">
 Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web autodidacta mexicano, mi pasión por el desarrollo web radica en hacer código y que este se vea reflejado en interfaces elegantes que solucionen problemas cuidando siempre la calidad de las cosas que construyo. 
+  <br/>
+  También me apasiona aprender y  me encanta la colaboración el intercambio de ideas y de conocimiento a través de equipos de desarrollo.
 </p>
 
-<p>
-  También me apasiona aprender y  me encanta la colaboración el intercambio de ideas y de conocimiento a través de equipos de desarrollo.
-  </p>
-
 ### Lenguajes Frameworks y Herramientas
-
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -43,3 +39,4 @@ Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web 
 <code><img height="20" src="https://i.stack.imgur.com/C9301.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanrh&layout=compact)](https://github.com/jdanrh/github-readme-stats)
+
