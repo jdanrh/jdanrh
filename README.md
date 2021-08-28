@@ -38,6 +38,5 @@ Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"></code>
 <code><img height="20" src="https://i.stack.imgur.com/C9301.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanrh&layout=compact)](https://github.com/jdanrh/github-readme-stats)
-
-💼 Quieres contactarme?, [Aqui](mailto:jdrh980909@gmail.com) :)
+- 💼 Quieres contactarme?, [Aqui](mailto:jdrh980909@gmail.com) :)
+- 💬 Preguntame sobre cualquier cosa estoy dispuesto a ayudarte
