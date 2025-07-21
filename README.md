@@ -1,28 +1,40 @@
-## Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👨‍💻 Jose Daniel Ramirez Hinojosa
 
-<a href="https://www.instagram.com/destructive.dev/">
-  <img align="left" alt="instagram" width="22px" src="https://www.pikpng.com/pngl/b/134-1341961_cv-png-icono-de-curriculum-png-clipart.png"/>
-</a>
+🚀 Desarrollador .NET | Especialista en soluciones de cobranza y crédito  
+📍 Estado de México, México  
 
-<a href="https://www.linkedin.com/in/jdrhmx/">
-  <img align="left" alt="jdrhmx LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+---
 
-<a href="https://www.instagram.com/destructive.dev/">
-  <img align="left" alt="instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
+## 🧾 Sobre mí
 
-![](https://visitor-badge.glitch.me/badge?page_id=jdanrh.jdanrh)
+Soy un **desarrollador .NET** con 3 años de experiencia en el **sector financiero**, enfocado en la construcción de **aplicaciones robustas y eficientes** (web y consola) para automatización de procesos, aplicación de pagos y gestión de crédito. Trabajo bajo la **metodología SCRUM** y aplico buenas prácticas de desarrollo y optimización de bases de datos SQL Server.
 
-  <p align="right">
-  <img src="assets/person.svg" align="right" height="150" />
-</p>
-<p align="left">
-Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web autodidacta mexicano, mi pasión por el desarrollo web radica en hacer código y que este se vea reflejado en interfaces elegantes que solucionen problemas cuidando siempre la calidad de las cosas que construyo. 
-  <br/>
-  También me apasiona aprender y  me encanta la colaboración el intercambio de ideas y de conocimiento a través de equipos de desarrollo.
-</p>
+---
 
+## 📈 Habilidades Destacadas
+
+- Arquitectura de software y diseño de sistemas.
+- Automatización de procesos financieros y crediticios.
+- Creación de sistemas internos (consolas, APIs, BD).
+- Manejo de formatos bancarios como **MT940**.
+- Experiencia con reportes regulatorios para **Buró de Crédito**.
+
+---
+
+## 📚 Educación
+
+🎓 **Ingeniería en Sistemas Computacionales**  
+*Tecnológico de Estudios Superiores de Huixquilucan*
+
+---
+
+## 🌐 Idiomas
+
+- Español: Nativo 🇲🇽  
+- Inglés: Básico (lectura y escritura técnica) 🇺🇸
+
+---
+ 
 ### Lenguajes Frameworks y Herramientas
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -38,5 +50,5 @@ Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"></code>
 <code><img height="20" src="https://i.stack.imgur.com/C9301.png"></code>
 
-- 💼 Quieres contactarme?, [Aqui](mailto:jdrh980909@gmail.com) :)
+- 💼 Quieres contactarme?, **contáctame por [LinkedIn](http://www.linkedin.com/in/josedanieldev)**  [Aqui](mailto:jdrh980909@gmail.com) :)
 - 💬 Preguntame sobre cualquier cosa estoy dispuesto a ayudarte
